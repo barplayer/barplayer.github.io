@@ -1,0 +1,50 @@
+body {
+	width: 490px;
+}
+
+p {
+	text-align:center;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 10px;
+}
+
+form {
+	background-color: #EAECEE;
+	text-align: center;
+	padding: 12px;
+}
+
+#display {
+	width: 95%;
+	height: 30px;
+	text-align: left;
+	font-size: 1.5rem;
+}
+
+.sign {
+	font-size: 2rem;
+	background-color: lightblue;
+	height: 50px;
+	width: 21%;
+	border-radius: 3px;
+	padding: 5px;
+}
+
+.number {
+	font-size: 2rem;
+	background-color: #999999;
+	height: 50px;
+	width: 21%;
+	border-radius: 3px;
+	padding: 5px;
+}
+
+#equal {
+		background-color: green;
+	}
+
+#clear {
+		background-color: white;
+}
